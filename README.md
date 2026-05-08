@@ -40,7 +40,7 @@ This is a multi-page static website consisting of the following pages:
 ## Styling & Scripts
 
 - `styles.css` – Main stylesheet  
-- `script.js` – JavaScript functionality (navigation, interactivity, etc.)
+- `script.js` – (no active JavaScript functionality)
 
 ---
 
@@ -58,7 +58,7 @@ No installation or setup required.
 
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript (no active scripting / minimal use)
 - Replit (development environment)  
 - Render (deployment platform)  
 
